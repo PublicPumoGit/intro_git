@@ -1,3 +1,6 @@
 テスト
 test
 
+git add
+git commit
+
